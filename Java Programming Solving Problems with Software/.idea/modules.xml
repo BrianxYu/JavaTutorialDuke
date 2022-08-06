@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CourseraDuke.iml" filepath="$PROJECT_DIR$/CourseraDuke.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/Finding All Genes in DNA/Finding All Genes in DNA.iml" filepath="$PROJECT_DIR$/Week2/Finding All Genes in DNA/Finding All Genes in DNA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/Finding a Gene in DNA/Finding a Gene in DNA.iml" filepath="$PROJECT_DIR$/Week2/Finding a Gene in DNA/Finding a Gene in DNA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/Week1.iml" filepath="$PROJECT_DIR$/Week1/Week1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/Week2.iml" filepath="$PROJECT_DIR$/Week2/Week2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice File/point.iml" filepath="$PROJECT_DIR$/Practice File/point.iml" />
+    </modules>
+  </component>
+</project>
